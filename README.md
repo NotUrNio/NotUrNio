@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/NotUrNio/Nio-Downloader">
-    <img src="assets/noturnio-profile-animated.gif" alt="NotUrNio — Winter Profile" width="100%" />
+    <img src="assets/noturnio-showcase.gif" alt="NotUrNio — Winter Profile" width="100%" />
   </a>
 </p>
 
